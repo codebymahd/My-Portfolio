@@ -27,9 +27,9 @@
 
 | Project Name          | Description                                 | Live Demo Link                         | Code |
 |-----------------------|---------------------------------------------|----------------------------------------|------|
-| Typing Game           | Fast typing challenge in JS                 | [Live](https://typingame.netlify.app) | [Code](https://github.com/codebymahd/typinggame-js) |
-| Coffee Landing Page   | Brand page with modern UI                   | [Live](https://coffee-page.netlify.app) | [Code](https://github.com/codebymahd/CoffeeBrand-LandingPage) |
-| Portfolio Website     | This site you're viewing now!               | [Live](https://your-portfolio.netlify.app) | [Code](https://github.com/codebymahd/My-Portfolio) |
+| Typing Game           | Fast typing challenge in JS                 | [Live](https://typingame-js.netlify.app) | [Code](https://github.com/codebymahd/typinggame-js) |
+| Coffee Landing Page   | Brand page with modern UI                   | [Live](https://coffeebrand-landingpage.netlify.app) | [Code](https://github.com/codebymahd/CoffeeBrand-LandingPage) |
+| Portfolio Website     | This site you're viewing now!               | [Live](https://mahdportfolio.netlify.app) | [Code](https://github.com/codebymahd/My-Portfolio) |
 
 ✨ Features
 
